@@ -9,6 +9,7 @@ main(){
   for (var element in collection) {
      print("    " + (element * pi).toString());
   }
+  print(" Prueba $collection ++++++++++++");
   // Final reserva cuando se ejecuta
 
   // late
